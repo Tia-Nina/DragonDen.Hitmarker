@@ -11,8 +11,8 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <PathToSPT>C:\SPT\SPT 4.0</PathToSPT>
-        <PathToSPTDev>C:\SPT\SPT 4.0</PathToSPTDev>
+        <PathToSPT>E:\EscapeFromTarkov\Client.0.16.9.5.40743</PathToSPT>
+        <PathToSPTDev>E:\EscapeFromTarkov\Client.0.16.9.5.40743</PathToSPTDev>
         <PathToSPTRelease>D:\SP-AKI\Drexira\4.0\!Releases\{project_name}\BepInEx\plugins\</PathToSPTRelease>
     </PropertyGroup>
 
